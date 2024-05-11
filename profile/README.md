@@ -4,7 +4,6 @@
 
 Innovativ, qualitativ und agil. Wir digitalisieren und automatisieren Geschäftsprozesse, um zukunftssichere Lösungen zu schaffen.
 
----
 
 ## Unsere Arbeitsweise
 
