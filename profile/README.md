@@ -1,6 +1,6 @@
-# Boiman Kupermann Solutions GmbH
+# bks-lab
 
-## Willkommen bei Boiman Kupermann Solutions!
+## Willkommen bei BKS-Lab!
 
 Wir sind Ihr Partner für die Digitalisierung und Automatisierung von Geschäftsprozessen, um zukunftssichere Lösungen zu schaffen. Mit unserer Expertise in KI, Prozessautomatisierung und Qualitätssicherung transformieren wir Ihre Geschäftsprozesse effizient und nachhaltig.
 
