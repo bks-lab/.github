@@ -218,7 +218,7 @@ graph LR
 
 <p align="center">
   <strong>bks-lab</strong><br>
-  <em>"Strategische KI-Implementierung für Marktführer"</em><br>
+  <em>"Strategische KI-Implementierung"</em><br>
   <sub>© 2025 bks-lab. All rights reserved.</sub>
 </p>
 
