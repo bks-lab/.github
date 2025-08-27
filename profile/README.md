@@ -1,6 +1,6 @@
 <div align="center">
 
-![BKS-Lab Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=BKS-Lab&fontSize=80&fontAlignY=40&desc=Strategische%20KI-Implementierung%20für%20Marktführer&descAlignY=60&animation=fadeIn)
+![BKS-Lab Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=BKS-Lab&fontSize=80&fontAlignY=40&desc=Strategische%20KI-Implementierung%20für%20ambitionierte%20Unternehmen&descAlignY=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=2563EB&center=true&vCenter=true&width=1000&height=60&lines=Digitale+Transformation+durch+Intelligenz+beschleunigen;Maßgeschneiderte+Automatisierungslösungen+mit+messbarem+Erfolg;20%2B+Jahre+Expertise+in+Enterprise+AI+%26+Prozessexzellenz)](https://git.io/typing-svg)
 
@@ -218,7 +218,7 @@ graph LR
 
 <p align="center">
   <strong>bks-lab</strong><br>
-  <em>"Strategische KI-Implementierung"</em><br>
+  <em>"Strategische KI-Implementierung für ambitionierte Unternehmen"</em><br>
   <sub>© 2025 bks-lab. All rights reserved.</sub>
 </p>
 
