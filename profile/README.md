@@ -1,225 +1,231 @@
 <div align="center">
 
-![BKS-Lab Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=BKS-Lab&fontSize=80&fontAlignY=40&desc=Strategische%20KI-Implementierung%20für%20ambitionierte%20Unternehmen&descAlignY=60&animation=fadeIn)
+![BKS-Lab Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=BKS-Lab&fontSize=80&fontAlignY=40&desc=AI-Native%20Enterprise%20Automation&descAlignY=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=2563EB&center=true&vCenter=true&width=1000&height=60&lines=Digitale+Transformation+durch+Intelligenz+beschleunigen;Maßgeschneiderte+Automatisierungslösungen+mit+messbarem+Erfolg;20%2B+Jahre+Expertise+in+Enterprise+AI+%26+Prozessexzellenz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=2563EB&center=true&vCenter=true&width=1000&height=60&lines=49+custom+AI+skills+powering+daily+operations;Peppol+e-invoicing+across+the+European+network;Multi-agent+orchestration+with+MCP+%26+A2A+protocols;AI+workshops+%26+EU+AI+Act+certification)](https://git.io/typing-svg)
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐-bks--lab.com-4285F4?style=for-the-badge&logoColor=white)](https://bks-lab.com)
-[![Contact](https://img.shields.io/badge/📧-Beratung_vereinbaren-D14836?style=for-the-badge)](mailto:info@boiman-kupermann.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/company/bks-lab)
+[![Website](https://img.shields.io/badge/bks--lab.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bks-lab.com)
+[![Contact](https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@boiman-kupermann.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/bks-lab)
 
 </div>
 
 ---
 
-## ◆ **Wir sind BKS-Lab**
+## About BKS-Lab
 
-**Boiman Kupermann Solutions** begleitet ambitionierte Unternehmen dabei, exponentiellen Wert durch KI-gestützte Automatisierung zu erschließen. Unsere bewährte Methodik liefert messbare Erfolge auf Unternehmensebene.
+**Boiman Kupermann Solutions** is a German AI consulting firm with 20+ years of engineering experience. We build production automation systems, run them in the cloud, and train teams to operate independently.
 
-> *Von der strategischen Bewertung bis zur skalierten Umsetzung – unser fünfphasiger Ansatz gewährleistet nachhaltige Transformation mit kontinuierlicher Wertschöpfung.*
+What sets us apart: **we run our own business on 49 custom AI skills.** From incident handling to invoice tracking, from news generation to meeting transcription — everything is AI-powered. When we build automation for clients, we're sharing what we use ourselves every day.
 
-## ◆ **Unsere Kernkompetenzen**
+---
 
-<div align="center">
-
-### **🧠 Strategische KI-Implementierung**
-*Intelligenzbasierte Optimierung für datengetriebene Insights und strategische Entscheidungen*
-
-**⚡ MCP & A2A Protokolle** • **🎯 Multi-Agent Orchestrierung** • **📊 Enterprise RAG-Systeme**
-
-<br>
-
-### **🔄 Prozessexzellenz & Automatisierung**
-*Transformieren Sie Ihre Abläufe durch intelligente Automatisierung mit vollständiger Regulatory Compliance*
-
-**📋 E-Rechnung** • **🏢 SAP-Integration** • **📧 KI E-Mail-Bot** • **📄 Dokumentenverarbeitung**
-
-<br>
-
-### **✅ Performance-Exzellenz** 
-*Rigorose Tests und Überwachung für geschäftskritische Systeme*
-
-**🧪 Automatisierte Qualitätssicherung** • **📈 CI/CD Pipelines** • **🎯 Monitoring & Analytics**
-
-<br>
-
-### **🏗️ Zukunftsfähige Architektur**
-*Skalierbare Lösungen für langfristige Wertschöpfung*
-
-**☁️ Cloud-Native** • **🔒 Enterprise Security** • **📊 Business Intelligence** • **🔧 MLOps**
-
-</div>
-
-## 🎯 **Transformation in Aktion**
+## What We Build
 
 <div align="center">
 
-### **Ausgewählte Erfolgsgeschichten**
+### E-Invoicing & Peppol Compliance
 
-| **Solution** | **Beschreibung** | **Business Impact** |
-|:---|:---|:---|
-| **🤖 Intelligente E-Mail Automatisierung** | KI-gestützte Klassifizierung und Verarbeitung für Enterprise-Kommunikation | Signifikante Effizienzsteigerung |
-| **📋 E-Rechnung Komplettsystem** | End-to-End Automatisierung der Rechnungsverarbeitung | Vollständige Compliance |
-| **🏢 SAP-Integration Suite** | Nahtlose Anbindung an bestehende Enterprise-Systeme | Prozessoptimierung |
-| **🎯 MCP Multi-Agent System** | Next-Generation Protokolle für autonome Workflows | Breakthrough Performance |
-| **📊 Enterprise Analytics Dashboard** | Real-time Monitoring und Intelligence für Entscheidungsträger | Datengetriebene Insights |
-| **✅ Quality Engineering Platform** | Automatisierte Testgenerierung und kontinuierliche Überwachung | Performance-Exzellenz |
+Production operators processing invoices across the European Peppol network — inbound, outbound, and invoice validation for multi-country enterprises (DE, AT, BE, FR, LU).
 
-*Alle Lösungen werden maßgeschneidert entwickelt und mit bewährten Enterprise-Standards implementiert.*
+`Peppol AS4` `UBL 2.1` `CII` `XRechnung` `Storecove` `EN 16931` `SAP ByD`
+
+<br>
+
+### Multi-Agent AI Systems
+
+Autonomous agent networks for document classification, intelligent routing, and end-to-end workflow automation. Our [AI Labor](https://bks-lab.com/labor) demonstrates real-time agent orchestration with MCP and A2A protocols.
+
+`MCP Protocol` `A2A Protocol` `Claude AI` `Azure OpenAI` `LiteLLM`
+
+<br>
+
+### Quality Engineering & Observability
+
+Test automation with Playwright and browser-use, CI/CD pipelines, and full observability through the ELK Stack (Elasticsearch, Kibana) and Grafana. We set up the infrastructure that keeps production systems reliable and transparent.
+
+`Playwright` `browser-use` `pytest` `GitHub Actions` `ELK Stack` `Grafana`
+
+<br>
+
+### Process Automation & Integration
+
+End-to-end workflows connecting enterprise systems — email classification, SAP integration, document processing, and Microsoft Graph API automation.
+
+`Azure Functions` `Azure Container Apps` `SAP` `Microsoft Graph` `Infrastructure as Code`
 
 </div>
 
-## 🔄 **Unser bewährter 5-Phasen-Ansatz**
+---
+
+## AI-Native Operations
+
+This is what makes BKS-Lab different. We don't just consult on AI — **we run our entire company on custom AI workflows.**
+
+### 49 Custom Claude Code Skills
+
+We've built a library of specialized AI skills that automate our daily operations:
+
+<div align="center">
+
+| Category | Skills | Examples |
+|:---|:---:|:---|
+| **Operations & Monitoring** | 7 | Log analysis, deployment verification, incident handling, post-deploy checks |
+| **Customer & Communication** | 6 | Email management (MS Graph), SharePoint sync, Outlook processing, project notifications |
+| **Development & Projects** | 5 | GitHub Projects automation, commit analysis, dashboards, sequential thinking |
+| **Content & Documentation** | 7 | Multi-agent news generator, PDF export, certificates, meeting transcription, wiki analysis |
+| **Cloud & Infrastructure** | 5 | Azure provisioning, blob storage portals, website deployment, backup automation |
+| **Scheduling & AI Meta** | 4 | Recurring task scheduler, context orchestrator, Telegram bot, product vision builder |
+
+</div>
+
+### How It Works in Practice
+
+```
+Meeting recording drops into folder
+  → AI transcribes and classifies meeting type
+    → Structured protocol written to wiki
+      → Action items extracted
+        → GitHub issues created with correct project fields
+          → Status notification sent via email
+```
+
+```
+Stepstone reports an invoice error
+  → Incident skill queries Elasticsearch logs
+    → Correlation ID and root cause identified
+      → Incident documented in wiki
+        → GitHub issue created with all required fields
+          → Go-live tracking updated automatically
+```
+
+### The BKS Cockpit
+
+One command loads your entire project context — repo paths, open tasks, relevant documentation, active skills, and session state. No manual context-switching.
+
+```bash
+/cockpit load stepstone    # Loads everything for Stepstone project
+/cockpit load docemos      # Switches to Docemos context
+/dashboard --all           # All projects at a glance
+```
+
+---
+
+## AI Training & Workshops
+
+We teach what we practice. Our workshops are built from real experience operating AI-native workflows at scale.
+
+<div align="center">
+
+| Program | Format | Audience |
+|:---|:---:|:---|
+| **Claude Code Mastery** | 30 min - 2 days | Developers learning AI-assisted development, multi-agent workflows, custom skills |
+| **AI Competency Training** | Half-day | Entire organizations building AI literacy and practical use cases |
+| **AI for Leadership** | 2-3 hours | Executives evaluating strategic AI adoption and roadmap planning |
+| **Business Development with AI** | Full-day | Product teams using Business Model Canvas for AI product ideation |
+
+<br>
+
+[![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Art._4_Certification-003399?style=flat-square&logo=european-union&logoColor=white)](#)
+
+All programs include **certification according to Article 4 of the EU AI Act** — delivered to 29+ professionals across engineering and technical documentation sectors.
+
+</div>
+
+---
+
+## How We Deliver
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🔍 Analyse] --> B[🛠️ Entwicklung] --> C[🚀 Implementierung] --> D[✅ Validierung] --> E[📚 Übergabe]
-    
-    style A fill:#e8f5e9,stroke:#4caf50
-    style B fill:#e3f2fd,stroke:#2196f3  
-    style C fill:#fff3e0,stroke:#ff9800
-    style D fill:#fce4ec,stroke:#e91e63
-    style E fill:#f3e5f5,stroke:#9c27b0
+    A["Assess"] --> B["Build"] --> C["Deploy"] --> D["Validate"] --> E["Handover"]
 ```
 
-<br>
-
-| **Phase** | **Fokus** | **Deliverable** |
+| Phase | What happens | Deliverable |
 |:---:|:---|:---|
-| **🔍 Analyse** | Tiefgehende Prozessanalyse und Potenzialidentifikation | Business Case & Roadmap |
-| **🛠️ Entwicklung** | Maßgeschneiderte Modelle und Komponenten | Proof of Concept |
-| **🚀 Implementierung** | Bereitstellung und laufende Optimierung | Production System |
-| **✅ Validierung** | Ergebnisvalidierung und Nutzerfeedback | Performance Reports |
-| **📚 Übergabe** | Dokumentation und strukturierte Übergabe | Knowledge Transfer |
-
-*Kontinuierliche Wertschöpfung durch iteratives Vorgehen und agile Methoden*
+| **Assess** | Process analysis, data flow mapping, automation potential | Business case & roadmap |
+| **Build** | Rapid prototyping with real data, iterative with your team | Working proof of concept |
+| **Deploy** | Production on Azure with monitoring, alerting, CI/CD | Live system with SLA |
+| **Validate** | Real workload testing, performance benchmarking | Verification reports |
+| **Handover** | Documentation, team training, knowledge transfer | Self-sufficient operations |
 
 </div>
 
 ---
 
-## 📈 **Unser Proven Process**
+## Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | Python, TypeScript, Go |
+| **AI & LLM** | Claude (Anthropic), Azure OpenAI, MCP Protocol, A2A Protocol, LiteLLM |
+| **Cloud** | Azure Functions, Container Apps, Key Vault, App Insights, Blob Storage |
+| **E-Invoicing** | Peppol Directory, SMP/SML, Storecove API, UBL/CII/XRechnung |
+| **Web** | Astro, React, Tailwind CSS |
+| **Data & Observability** | ELK Stack (Elasticsearch, Kibana), Grafana, PostgreSQL |
+| **Quality** | Playwright, browser-use, pytest, GitHub Actions |
+| **Infrastructure** | Terraform, Docker, SOPS, uv, Semantic Release |
+
+</div>
+
+---
+
+## Our Ecosystem
+
+<div align="center">
 
 ```mermaid
-graph LR
-    subgraph "Phase 1: Analyse"
-        A1[🔍 Prozessanalyse]
-        A2[📊 Potenzialidentifikation]
-        A3[💰 ROI-Kalkulation]
-    end
-    
-    subgraph "Phase 2: Entwicklung"
-        B1[🎯 Solution Design]
-        B2[🤖 AI/ML Modelle]
-        B3[⚡ Prototyping]
-    end
-    
-    subgraph "Phase 3: Implementierung"
-        C1[🚀 Deployment]
-        C2[🔄 Integration]
-        C3[📈 Optimierung]
-    end
-    
-    subgraph "Phase 4: Validierung"
-        D1[✅ Testing]
-        D2[📊 Monitoring]
-        D3[🔄 Iteration]
-    end
-    
-    subgraph "Phase 5: Übergabe"
-        E1[📚 Dokumentation]
-        E2[🎓 Training]
-        E3[🤝 Support]
-    end
-    
-    A1 --> B1 --> C1 --> D1 --> E1
-    
-    style A1 fill:#e8f5e9
-    style B1 fill:#e3f2fd
-    style C1 fill:#fff3e0
-    style D1 fill:#fce4ec
-    style E1 fill:#f3e5f5
+graph TD
+    A["Wiki — The Office"] --> E["Shared Packages"]
+    B["bks-web — The Showcase"] --> E
+    C["bks-codex — The Lab"] --> E
+    D["bks-infra — The Engine Room"] --> E
+    E --> F["23+ Repositories"]
 ```
 
-<div align="center">
-
-### **⏱️ Timeline & Deliverables**
-
-| Phase | Duration | Key Deliverables | Success Metrics |
-|:---:|:---:|:---|:---|
-| 🔍 **Analyse** | 1-2 Wochen | • Prozesslandkarte<br>• Automatisierungspotenzial<br>• Business Case | ROI > 300% |
-| 🛠️ **Entwicklung** | 2-4 Wochen | • Solution Architecture<br>• Proof of Concept<br>• Testdaten | Feasibility ✓ |
-| 🚀 **Implementierung** | 4-8 Wochen | • Production System<br>• Integrations<br>• Monitoring | 99.9% Uptime |
-| ✅ **Validierung** | 2-3 Wochen | • Test Reports<br>• Performance Metrics<br>• User Feedback | >90% Accuracy |
-| 📚 **Übergabe** | 1 Woche | • Documentation<br>• Training Materials<br>• Support Plan | Team Ready ✓ |
+| Pillar | Purpose | Contains |
+|:---|:---|:---|
+| **Wiki** | Documentation & operations | Protocols, customer docs, processes, standards |
+| **bks-web** | Public presence | Marketing website, blog, AI labor demos |
+| **bks-codex** | AI tooling | 49 skills, MCP servers, commands, packages |
+| **bks-infra** | Infrastructure | Terraform, secrets (SOPS+YubiKey), forensics, monitoring |
 
 </div>
 
 ---
 
-
-## 🎯 **Warum BKS-Lab?**
-
 <div align="center">
 
-| 💡 **Unique Value** | 🎯 **Was Sie bekommen** |
-|:---|:---|
-| **🚀 Proven Track Record** | 100+ erfolgreiche Enterprise Projekte |
-| **📊 Messbare Ergebnisse** | Durchschnittlich 80% Effizienzsteigerung |
-| **🎯 End-to-End Expertise** | Von Strategie bis Implementierung |
-| **🔒 Enterprise-Ready** | Security, Compliance, Scalability |
-| **🤝 Partnership Approach** | Langfristige Begleitung, nicht nur Projektarbeit |
-| **💰 ROI-Fokussiert** | Amortisation < 6 Monate garantiert |
+### Explore our work
 
-</div>
-
----
-
-## 📞 **Starten Sie Ihre Transformation**
-
-<div align="center">
-
-### **Bereit für messbare Ergebnisse?**
+Open-source tools from our production work — check the pinned repos below.
 
 <br>
-
-<a href="https://bks-lab.com/contact">
-  <img src="https://img.shields.io/badge/🚀_Kostenloses_Beratungsgespräch-Jetzt_vereinbaren-FF6B35?style=for-the-badge&logo=calendar" alt="Beratung">
-</a>
 
 <a href="https://bks-lab.com">
-  <img src="https://img.shields.io/badge/🌐_Website-Mehr_erfahren-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Website-bks--lab.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+&nbsp;
+<a href="https://bks-lab.com/labor">
+  <img src="https://img.shields.io/badge/AI_Labor-Live_Demo-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="AI Labor">
+</a>
+&nbsp;
+<a href="mailto:ai@bks-lab.com">
+  <img src="https://img.shields.io/badge/Book_a_Workshop-ai@bks--lab.com-FF6B35?style=for-the-badge&logo=calendar&logoColor=white" alt="Workshop">
 </a>
 
 <br><br>
-
-### **📱 Kontakt & Community**
-
-<a href="mailto:info@boiman-kupermann.com">
-  <img src="https://img.shields.io/badge/Email-info@boiman--kupermann.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://linkedin.com/company/bks-lab">
-  <img src="https://img.shields.io/badge/LinkedIn-BKS--Lab-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://github.com/bks-lab">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
-
-<br><br>
-
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%">
 
-<p align="center">
-  <strong>bks-lab</strong><br>
-  <em>"Strategische KI-Implementierung für ambitionierte Unternehmen"</em><br>
-  <sub>© 2025 bks-lab. All rights reserved.</sub>
-</p>
+<sub>Based in Germany | Engineering-driven AI consulting since 2004 | &copy; 2026 BKS-Lab</sub>
 
 </div>
