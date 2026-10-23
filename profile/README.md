@@ -7,7 +7,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/bks--lab.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bks-lab.com)
-[![Contact](https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@boiman-kupermann.com)
+[![Contact](https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bks-lab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/bks-lab)
 
 </div>
@@ -16,7 +16,7 @@
 
 ## About BKS-Lab
 
-**Boiman Kupermann Solutions** is a German AI consulting firm with 20+ years of engineering experience. We build production automation systems, run them in the cloud, and train teams to operate independently.
+**BKS Lab GmbH** is a German AI consulting firm with 20+ years of engineering experience. We build production automation systems, run them in the cloud, and train teams to operate independently.
 
 What sets us apart: **we run our own business on 49 custom AI skills.** From incident handling to invoice tracking, from news generation to meeting transcription — everything is AI-powered. When we build automation for clients, we're sharing what we use ourselves every day.
 
