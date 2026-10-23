@@ -1,8 +1,6 @@
 <div align="center">
 
-# BKS-Lab
-
-**Sovereign AI for confidential company knowledge**
+<img src="assets/banner.svg" alt="BKS-Lab: Sovereign AI for confidential company knowledge" width="100%">
 
 [![Website](https://img.shields.io/badge/bks--lab.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bks-lab.com)
 [![Contact](https://img.shields.io/badge/Contact-info@bks--lab.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bks-lab.com)
