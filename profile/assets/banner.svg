@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">BKS-Lab</title>
+  <desc id="d">bks-lab. Sovereign AI for confidential company knowledge.</desc>
+  <!-- Farben nur aus DESIGN.md: primary #0F2A4A, secondary #2D5B8F, accent #5FA0D9, accent-line #D3E4F6, on-primary #FFFFFF.
+       Ein Panel in primary liest sich auf hellem und dunklem GitHub-Theme gleich. -->
+  <rect width="1280" height="320" fill="#0F2A4A"/>
+  <!-- Geometrie rechts: konzentrische Bögen und eine Mittelachse, dazu drei Punkte wie im Zeichen der Website -->
+  <g fill="none" stroke="#2D5B8F" stroke-width="1.5">
+    <circle cx="1040" cy="160" r="60"/>
+    <circle cx="1040" cy="160" r="120"/>
+    <circle cx="1040" cy="160" r="180"/>
+    <circle cx="1040" cy="160" r="240"/>
+    <line x1="1040" y1="0" x2="1040" y2="320"/>
+  </g>
+  <g fill="#5FA0D9">
+    <circle cx="1040" cy="100" r="6"/>
+    <circle cx="1100" cy="160" r="6"/>
+    <circle cx="1040" cy="220" r="6"/>
+  </g>
+  <line x1="1040" y1="100" x2="1040" y2="220" stroke="#5FA0D9" stroke-width="1.5"/>
+  <line x1="1040" y1="160" x2="1100" y2="160" stroke="#5FA0D9" stroke-width="1.5"/>
+  <!-- Text -->
+  <text x="80" y="126" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="88" font-weight="500" letter-spacing="-1" fill="#FFFFFF">bks-lab</text>
+  <rect x="82" y="152" width="48" height="3" fill="#5FA0D9"/>
+  <text x="80" y="202" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#FFFFFF">Sovereign AI for confidential company knowledge</text>
+  <text x="80" y="252" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.1" fill="#D3E4F6">BKS LAB GMBH · KÖLN</text>
+</svg>
